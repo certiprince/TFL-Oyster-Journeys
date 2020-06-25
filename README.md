@@ -19,7 +19,7 @@ The dataset was collected by a classmate of mine in the UCL Department of Physic
 
 <figure>
    <a href="https://www.london.gov.uk/sites/default/files/styles/gla_large_unconstrained/public/figure_1.1_annual_pop_change_1971-2011.png?itok=tmztWl0e">
-   <img src=https://www.london.gov.uk/sites/default/files/styles/gla_large_unconstrained/public/figure_1.1_annual_pop_change_1971-2011.png?itok=tmztWl0e width="500" align="center"/></a>
+   <img src=https://www.london.gov.uk/sites/default/files/styles/gla_large_unconstrained/public/figure_1.1_annual_pop_change_1971-2011.png?itok=tmztWl0e width="500"/></a>
    <figcaption> London population change between 1971-2011. Source: london.gov.uk
    </figcaption>
 </figure>
